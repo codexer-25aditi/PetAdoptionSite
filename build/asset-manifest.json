@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PetAdoptionSite/static/css/main.83de7b20.css",
+    "main.js": "/PetAdoptionSite/static/js/main.6b61b27d.js",
+    "static/media/dog-nose.jpg": "/PetAdoptionSite/static/media/dog-nose.5494fa08a0c0fc53f24c.jpg",
+    "static/media/Cute-Dog-Images.jpg": "/PetAdoptionSite/static/media/Cute-Dog-Images.b9151b8f307536373e15.jpg",
+    "static/media/gallery13.jpg": "/PetAdoptionSite/static/media/gallery13.f97340f33c16180af470.jpg",
+    "static/media/gallery9.jpg": "/PetAdoptionSite/static/media/gallery9.c509e4983c49beb7091a.jpg",
+    "static/media/adopt.jpg": "/PetAdoptionSite/static/media/adopt.57b477be97ec1980b589.jpg",
+    "static/media/pet2.jpg": "/PetAdoptionSite/static/media/pet2.50b625ced3ef552f4216.jpg",
+    "static/media/logo.jpg": "/PetAdoptionSite/static/media/logo.7216ccc40d05a8258430.jpg",
+    "static/media/gallery8.jpg": "/PetAdoptionSite/static/media/gallery8.9596dab7bc39f2e25370.jpg",
+    "static/media/gallery15.jpg": "/PetAdoptionSite/static/media/gallery15.58e6964844c39e09793c.jpg",
+    "static/media/gallery0.jpg": "/PetAdoptionSite/static/media/gallery0.14a3f20947ea34269737.jpg",
+    "static/media/img.jpg": "/PetAdoptionSite/static/media/img.62bb2d62eb24a9506f6e.jpg",
+    "static/media/3.jpg": "/PetAdoptionSite/static/media/3.bb0997d72423c4f972b4.jpg",
+    "static/media/gallery14.jpg": "/PetAdoptionSite/static/media/gallery14.4856c02d1744d9330c37.jpg",
+    "static/media/pet3.jpg": "/PetAdoptionSite/static/media/pet3.4239b9612302c0987525.jpg",
+    "static/media/gallery6.jpg": "/PetAdoptionSite/static/media/gallery6.eeef48ea2ca2050917fc.jpg",
+    "index.html": "/PetAdoptionSite/index.html",
+    "main.83de7b20.css.map": "/PetAdoptionSite/static/css/main.83de7b20.css.map",
+    "main.6b61b27d.js.map": "/PetAdoptionSite/static/js/main.6b61b27d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83de7b20.css",
+    "static/js/main.6b61b27d.js"
+  ]
+}
